@@ -1,0 +1,4960 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+    <name>10 points example</name>
+    <Style id="sn_1">
+       <IconStyle>
+         <Icon>
+            <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+         </Icon>
+       </IconStyle>
+       <LabelStyle>
+         <scale>0</scale>
+       </LabelStyle>
+    </Style>
+
+    <Style id="sh_1">
+      <IconStyle>
+         <scale>1.1</scale>
+         <Icon>
+            <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+         </Icon>
+      </IconStyle>
+      <LabelStyle>
+         <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+
+    <StyleMap id="style1">
+       <Pair>
+          <key>normal</key>
+          <styleUrl>#sn_1</styleUrl>
+       </Pair>
+       <Pair>
+          <key>highlight</key>
+          <styleUrl>#sh_1</styleUrl>
+       </Pair>
+    </StyleMap>
+
+	<Placemark>
+		<name>65730617278464</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.22<companyAlertRiskScore -->
+		<Point><coordinates>-73.967,40.7614</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>65809983995904</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>9.14<companyAlertRiskScore -->
+		<Point><coordinates>-117.085,32.7024</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>65809983995904</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>9.14<companyAlertRiskScore -->
+		<Point><coordinates>-121.899,37.4159</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>65809983995904</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>9.14<companyAlertRiskScore -->
+		<Point><coordinates>-73.992,40.7301</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>65809983995904</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>9.14<companyAlertRiskScore -->
+		<Point><coordinates>-73.9917,40.7301</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>65809983995904</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>9.14<companyAlertRiskScore -->
+		<Point><coordinates>-105.083,39.8433</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>65809983995904</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>9.14<companyAlertRiskScore -->
+		<Point><coordinates>-73.9912,40.7363</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>65809983995904</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>9.14<companyAlertRiskScore -->
+		<Point><coordinates>-73.7527,42.6494</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>65809983995904</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>9.14<companyAlertRiskScore -->
+		<Point><coordinates>-122.336,47.5802</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>65842369265664</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.44<companyAlertRiskScore -->
+		<Point><coordinates>-122.031,37.332</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>65842386567168</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.76<companyAlertRiskScore -->
+		<Point><coordinates>-74.0341,40.7264</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>65842386567168</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.76<companyAlertRiskScore -->
+		<Point><coordinates>-117.189,32.8974</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>65894543261696</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.55<companyAlertRiskScore -->
+		<Point><coordinates>-93.8071,41.6599</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>65894543261696</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.55<companyAlertRiskScore -->
+		<Point><coordinates>-93.8071,41.6599</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66157075234816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>14.26<companyAlertRiskScore -->
+		<Point><coordinates>-122.031,37.332</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66215559561216</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>105.842,21.0237</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66215559561216</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>-74.0353,40.7169</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66215559561216</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>-74.0353,40.7169</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66215559561216</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>121.018,14.5593</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66215559561216</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>-82.3327,27.984</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66215559561216</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>-0.0177746,51.504</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66215559561216</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>151.206,-33.8712</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66215559561216</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>,</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66257974460416</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>105.842,21.0237</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66257974460416</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>121.018,14.5593</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66257974460416</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>-74.0353,40.7169</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66257974460416</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>-0.0177746,51.504</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66257974460416</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>-82.3327,27.984</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66257974460416</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>-74.0353,40.7169</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66257974460416</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>151.206,-33.8712</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66257974460416</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>,</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66389596962816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.94<companyAlertRiskScore -->
+		<Point><coordinates>-83.8341,39.5208</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66389596962816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.94<companyAlertRiskScore -->
+		<Point><coordinates>-74.1412,40.7465</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66400147210240</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.48<companyAlertRiskScore -->
+		<Point><coordinates>-78.9924,34.6586</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66400147210240</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.48<companyAlertRiskScore -->
+		<Point><coordinates>-78.9924,34.6586</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66400147210240</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.48<companyAlertRiskScore -->
+		<Point><coordinates>-79.0119,34.6371</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66400152453120</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.33<companyAlertRiskScore -->
+		<Point><coordinates>-78.9924,34.6586</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438829703168</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.69<companyAlertRiskScore -->
+		<Point><coordinates>-77.263,39.2007</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438829703168</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.69<companyAlertRiskScore -->
+		<Point><coordinates>-77.263,39.2007</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438829703168</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.69<companyAlertRiskScore -->
+		<Point><coordinates>-77.1944,39.1025</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438829703168</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.69<companyAlertRiskScore -->
+		<Point><coordinates>-77.2654,39.1767</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438829703168</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.69<companyAlertRiskScore -->
+		<Point><coordinates>-111.808,33.3833</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438869549056</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.22<companyAlertRiskScore -->
+		<Point><coordinates>-73.9869,40.7467</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438968115200</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.7<companyAlertRiskScore -->
+		<Point><coordinates>-96.9943,32.9452</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438968115200</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.7<companyAlertRiskScore -->
+		<Point><coordinates>-76.7283,39.1863</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438968115200</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.7<companyAlertRiskScore -->
+		<Point><coordinates>-96.824,33.1002</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438968115200</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.7<companyAlertRiskScore -->
+		<Point><coordinates>-77.3142,38.9459</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438968115200</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.7<companyAlertRiskScore -->
+		<Point><coordinates>-77.3142,38.9459</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438968115200</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.7<companyAlertRiskScore -->
+		<Point><coordinates>-96.6833,33.0884</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438968115200</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.7<companyAlertRiskScore -->
+		<Point><coordinates>-96.7973,32.7848</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438968115200</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.7<companyAlertRiskScore -->
+		<Point><coordinates>-96.6858,33.0765</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438975979520</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.7<companyAlertRiskScore -->
+		<Point><coordinates>-96.9943,32.9452</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438975979520</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.7<companyAlertRiskScore -->
+		<Point><coordinates>-76.7283,39.1863</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438975979520</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.7<companyAlertRiskScore -->
+		<Point><coordinates>-96.824,33.1002</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438975979520</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.7<companyAlertRiskScore -->
+		<Point><coordinates>-96.6833,33.0884</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438975979520</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.7<companyAlertRiskScore -->
+		<Point><coordinates>-77.3142,38.9459</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438975979520</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.7<companyAlertRiskScore -->
+		<Point><coordinates>-96.7973,32.7848</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438975979520</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.7<companyAlertRiskScore -->
+		<Point><coordinates>-96.6858,33.0765</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438975979520</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.7<companyAlertRiskScore -->
+		<Point><coordinates>-77.3142,38.9459</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438896287744</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.65<companyAlertRiskScore -->
+		<Point><coordinates>-122.391,37.7797</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438896287744</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.65<companyAlertRiskScore -->
+		<Point><coordinates>-122.399,37.7881</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438896287744</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.65<companyAlertRiskScore -->
+		<Point><coordinates>-122.393,37.7914</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438896287744</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.65<companyAlertRiskScore -->
+		<Point><coordinates>-122.678,45.5208</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438896287744</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.65<companyAlertRiskScore -->
+		<Point><coordinates>-122.676,45.5222</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438896287744</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.65<companyAlertRiskScore -->
+		<Point><coordinates>-122.676,45.5222</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439017398272</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.16<companyAlertRiskScore -->
+		<Point><coordinates>-84.4688,33.8956</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439017398272</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.16<companyAlertRiskScore -->
+		<Point><coordinates>-84.3585,33.7641</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439017398272</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.16<companyAlertRiskScore -->
+		<Point><coordinates>-84.4662,33.889</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439017398272</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.16<companyAlertRiskScore -->
+		<Point><coordinates>-84.4662,33.889</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438993281024</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.06<companyAlertRiskScore -->
+		<Point><coordinates>-97.741,30.2701</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438993281024</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.06<companyAlertRiskScore -->
+		<Point><coordinates>-96.8103,33.0757</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438993281024</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.06<companyAlertRiskScore -->
+		<Point><coordinates>-75.5391,39.1108</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438993281024</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.06<companyAlertRiskScore -->
+		<Point><coordinates>-96.8103,33.0757</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438993281024</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.06<companyAlertRiskScore -->
+		<Point><coordinates>-97.7397,30.2706</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438993281024</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.06<companyAlertRiskScore -->
+		<Point><coordinates>-96.8038,32.7913</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439250182144</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.11<companyAlertRiskScore -->
+		<Point><coordinates>-96.8621,33.1428</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439250182144</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.11<companyAlertRiskScore -->
+		<Point><coordinates>-96.9566,32.9078</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439250182144</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.11<companyAlertRiskScore -->
+		<Point><coordinates>-96.9929,32.9542</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439250182144</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.11<companyAlertRiskScore -->
+		<Point><coordinates>-96.9929,32.9542</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439237599232</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.22<companyAlertRiskScore -->
+		<Point><coordinates>-96.9173,32.9292</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439237599232</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.22<companyAlertRiskScore -->
+		<Point><coordinates>-96.9173,32.9292</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438993805312</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.15<companyAlertRiskScore -->
+		<Point><coordinates>-75.1352,40.0878</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438993805312</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.15<companyAlertRiskScore -->
+		<Point><coordinates>-75.1407,40.0843</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438993805312</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.15<companyAlertRiskScore -->
+		<Point><coordinates>-75.1408,40.0843</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438993805312</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.15<companyAlertRiskScore -->
+		<Point><coordinates>-75.1408,40.0843</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66438993805312</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.15<companyAlertRiskScore -->
+		<Point><coordinates>-75.1408,40.0843</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439311523840</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.67<companyAlertRiskScore -->
+		<Point><coordinates>-96.8247,33.1508</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439311523840</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.67<companyAlertRiskScore -->
+		<Point><coordinates>-96.7942,33.0238</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439311523840</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.67<companyAlertRiskScore -->
+		<Point><coordinates>-96.7942,33.0238</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439272202240</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.92<companyAlertRiskScore -->
+		<Point><coordinates>-77.124,39.0492</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439272202240</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.92<companyAlertRiskScore -->
+		<Point><coordinates>-77.0342,39.0148</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439272202240</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.92<companyAlertRiskScore -->
+		<Point><coordinates>-77.1155,39.0471</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439272202240</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.92<companyAlertRiskScore -->
+		<Point><coordinates>-77.1274,39.0482</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439272202240</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.92<companyAlertRiskScore -->
+		<Point><coordinates>-77.1273,39.0502</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439272202240</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.92<companyAlertRiskScore -->
+		<Point><coordinates>-77.1273,39.0502</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439295795200</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.3<companyAlertRiskScore -->
+		<Point><coordinates>77.6512,13.0155</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439295795200</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.3<companyAlertRiskScore -->
+		<Point><coordinates>8.68857,50.1188</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439295795200</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.3<companyAlertRiskScore -->
+		<Point><coordinates>-96.8275,32.9864</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439295795200</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.3<companyAlertRiskScore -->
+		<Point><coordinates>-96.9273,32.9098</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439295795200</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.3<companyAlertRiskScore -->
+		<Point><coordinates>-96.9273,32.9098</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439295795200</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.3<companyAlertRiskScore -->
+		<Point><coordinates>-96.9177,32.899</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439338786817</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.94<companyAlertRiskScore -->
+		<Point><coordinates>-86.7296,33.4465</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439338786817</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.94<companyAlertRiskScore -->
+		<Point><coordinates>-74.4567,40.5501</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439338786817</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.94<companyAlertRiskScore -->
+		<Point><coordinates>-74.4567,40.5501</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439338786816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.33<companyAlertRiskScore -->
+		<Point><coordinates>-96.8478,33.111</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439338786816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.33<companyAlertRiskScore -->
+		<Point><coordinates>-96.836,33.0647</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439338786816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.33<companyAlertRiskScore -->
+		<Point><coordinates>-96.691,32.9765</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439338786816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.33<companyAlertRiskScore -->
+		<Point><coordinates>-96.8102,33.0731</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439338786816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.33<companyAlertRiskScore -->
+		<Point><coordinates>-96.8171,33.0691</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439338786816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.33<companyAlertRiskScore -->
+		<Point><coordinates>-117.678,33.6163</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439338786816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.33<companyAlertRiskScore -->
+		<Point><coordinates>-104.988,39.7414</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439338786816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.33<companyAlertRiskScore -->
+		<Point><coordinates>-96.8102,33.0731</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439338786816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.33<companyAlertRiskScore -->
+		<Point><coordinates>-88.368,44.2999</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439338786816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.33<companyAlertRiskScore -->
+		<Point><coordinates>-97.7406,30.2689</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439338786816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.33<companyAlertRiskScore -->
+		<Point><coordinates>-96.7973,32.7848</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439389118464</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.11<companyAlertRiskScore -->
+		<Point><coordinates>-96.9783,32.9904</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439389118464</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.11<companyAlertRiskScore -->
+		<Point><coordinates>-96.9992,32.9783</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439389118464</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.11<companyAlertRiskScore -->
+		<Point><coordinates>-96.9771,32.9895</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439387545600</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>0.67<companyAlertRiskScore -->
+		<Point><coordinates>-124.036,46.3072</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439387545600</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>0.67<companyAlertRiskScore -->
+		<Point><coordinates>-122.312,47.6144</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439387545600</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>0.67<companyAlertRiskScore -->
+		<Point><coordinates>-122.33,47.6234</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439387545600</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>0.67<companyAlertRiskScore -->
+		<Point><coordinates>-122.334,47.6103</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66439387545600</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>0.67<companyAlertRiskScore -->
+		<Point><coordinates>-122.328,47.6366</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66440267300864</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.11<companyAlertRiskScore -->
+		<Point><coordinates>-74.0361,40.7164</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66440240562176</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.11<companyAlertRiskScore -->
+		<Point><coordinates>-96.7997,32.7826</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66440240562176</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.11<companyAlertRiskScore -->
+		<Point><coordinates>-96.6272,32.8134</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66440240562176</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.11<companyAlertRiskScore -->
+		<Point><coordinates>-96.8459,33.0099</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66440240562176</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.11<companyAlertRiskScore -->
+		<Point><coordinates>-96.7068,33.0314</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66440240562176</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.11<companyAlertRiskScore -->
+		<Point><coordinates>-96.8449,33.0101</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66440240562176</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.11<companyAlertRiskScore -->
+		<Point><coordinates>-96.7075,33.0301</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66440240562176</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.11<companyAlertRiskScore -->
+		<Point><coordinates>-96.9633,32.9999</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66440253669376</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.7<companyAlertRiskScore -->
+		<Point><coordinates>-95.3699,29.7546</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66440253669376</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.7<companyAlertRiskScore -->
+		<Point><coordinates>-95.3699,29.7546</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66440253669376</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.7<companyAlertRiskScore -->
+		<Point><coordinates>-95.5739,29.7283</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66440253669376</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.7<companyAlertRiskScore -->
+		<Point><coordinates>-95.5739,29.7283</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66440253669376</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.7<companyAlertRiskScore -->
+		<Point><coordinates>-77.0519,38.8513</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66440426160128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.22<companyAlertRiskScore -->
+		<Point><coordinates>-74.5923,40.3355</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66440426160128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.22<companyAlertRiskScore -->
+		<Point><coordinates>-74.5924,40.3356</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66440327069696</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.4<companyAlertRiskScore -->
+		<Point><coordinates>-105.239,40.0215</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66440327069696</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.4<companyAlertRiskScore -->
+		<Point><coordinates>-105.239,40.0215</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66440327069696</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.4<companyAlertRiskScore -->
+		<Point><coordinates>-105.239,40.0215</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66440357478400</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.67<companyAlertRiskScore -->
+		<Point><coordinates>-122.336,47.6071</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66440357478400</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.67<companyAlertRiskScore -->
+		<Point><coordinates>-122.336,47.6073</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66440357478400</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.67<companyAlertRiskScore -->
+		<Point><coordinates>-122.333,47.5994</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66440357478400</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.67<companyAlertRiskScore -->
+		<Point><coordinates>-122.333,47.5998</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66440357478400</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.67<companyAlertRiskScore -->
+		<Point><coordinates>-122.336,47.6073</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66440481210388</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.42<companyAlertRiskScore -->
+		<Point><coordinates>-74.1701,40.7365</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66440481210388</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.42<companyAlertRiskScore -->
+		<Point><coordinates>-74.1701,40.7365</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66440510570496</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.65<companyAlertRiskScore -->
+		<Point><coordinates>-78.7914,35.8284</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66440510570496</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.65<companyAlertRiskScore -->
+		<Point><coordinates>-78.7914,35.8284</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66440540454912</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.06<companyAlertRiskScore -->
+		<Point><coordinates>-76.7148,39.2495</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66440540454912</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.06<companyAlertRiskScore -->
+		<Point><coordinates>-76.7148,39.2495</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66440448180224</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.26<companyAlertRiskScore -->
+		<Point><coordinates>18.0636,59.3422</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66440448180224</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.26<companyAlertRiskScore -->
+		<Point><coordinates>-0.136356,51.5121</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66440448180224</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.26<companyAlertRiskScore -->
+		<Point><coordinates>-73.994,40.7397</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66440448180224</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.26<companyAlertRiskScore -->
+		<Point><coordinates>-73.994,40.7397</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66440448180224</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.26<companyAlertRiskScore -->
+		<Point><coordinates>-74.0021,40.741</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66440448180224</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.26<companyAlertRiskScore -->
+		<Point><coordinates>-0.129264,51.5163</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66440448180224</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.26<companyAlertRiskScore -->
+		<Point><coordinates>-0.141261,51.515</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479619833856</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.33<companyAlertRiskScore -->
+		<Point><coordinates>-76.3587,39.523</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479615115264</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.69<companyAlertRiskScore -->
+		<Point><coordinates>-85.6395,42.9123</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479615115264</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.69<companyAlertRiskScore -->
+		<Point><coordinates>-122.156,47.6275</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479596240896</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.26<companyAlertRiskScore -->
+		<Point><coordinates>77.6512,13.0155</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479596240896</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.26<companyAlertRiskScore -->
+		<Point><coordinates>8.68857,50.1188</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479596240896</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.26<companyAlertRiskScore -->
+		<Point><coordinates>-96.8275,32.9864</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479596240896</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.26<companyAlertRiskScore -->
+		<Point><coordinates>-96.9177,32.899</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479596240896</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.26<companyAlertRiskScore -->
+		<Point><coordinates>-96.9273,32.9098</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479607250944</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.59<companyAlertRiskScore -->
+		<Point><coordinates>-122.745,46.4853</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479607250944</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.59<companyAlertRiskScore -->
+		<Point><coordinates>-76.6656,39.2408</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479607250944</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.59<companyAlertRiskScore -->
+		<Point><coordinates>-77.5512,38.783</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479607250944</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.59<companyAlertRiskScore -->
+		<Point><coordinates>-80.1017,40.4518</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479607250944</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.59<companyAlertRiskScore -->
+		<Point><coordinates>-86.5539,36.0211</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479607250944</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.59<companyAlertRiskScore -->
+		<Point><coordinates>-83.4687,41.5358</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479607250944</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.59<companyAlertRiskScore -->
+		<Point><coordinates>-78.8022,42.8834</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479607250944</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.59<companyAlertRiskScore -->
+		<Point><coordinates>-73.6373,42.7497</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479607250944</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.59<companyAlertRiskScore -->
+		<Point><coordinates>-83.0782,40.3808</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479603580928</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.7<companyAlertRiskScore -->
+		<Point><coordinates>-95.5803,29.7857</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479643951104</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.44<companyAlertRiskScore -->
+		<Point><coordinates>-105.01,39.7208</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479639232512</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.2<companyAlertRiskScore -->
+		<Point><coordinates>-97.7437,31.1175</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479639232512</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.2<companyAlertRiskScore -->
+		<Point><coordinates>-97.7411,31.1253</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479625601024</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>7.65<companyAlertRiskScore -->
+		<Point><coordinates>-122.4,37.7915</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479625601024</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>7.65<companyAlertRiskScore -->
+		<Point><coordinates>-122.401,37.7908</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479625601024</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>7.65<companyAlertRiskScore -->
+		<Point><coordinates>-122.398,37.7912</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479625601024</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>7.65<companyAlertRiskScore -->
+		<Point><coordinates>-122.398,37.7912</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479631368192</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.83<companyAlertRiskScore -->
+		<Point><coordinates>-71.3899,42.46</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479753527296</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.33<companyAlertRiskScore -->
+		<Point><coordinates>-90.4236,38.7785</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479764537344</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.11<companyAlertRiskScore -->
+		<Point><coordinates>-74.0361,40.7164</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479769255936</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.33<companyAlertRiskScore -->
+		<Point><coordinates>-98.64,29.3811</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479769255936</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.33<companyAlertRiskScore -->
+		<Point><coordinates>-98.4921,29.5166</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479769255936</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.33<companyAlertRiskScore -->
+		<Point><coordinates>-98.4921,29.5166</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479773974528</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.3<companyAlertRiskScore -->
+		<Point><coordinates>-96.7997,32.7826</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479773974528</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.3<companyAlertRiskScore -->
+		<Point><coordinates>-96.7068,33.0314</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479773974528</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.3<companyAlertRiskScore -->
+		<Point><coordinates>-96.6272,32.8134</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479773974528</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.3<companyAlertRiskScore -->
+		<Point><coordinates>-96.8459,33.0099</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479773974528</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.3<companyAlertRiskScore -->
+		<Point><coordinates>-96.7075,33.0301</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479773974528</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.3<companyAlertRiskScore -->
+		<Point><coordinates>-96.9633,32.9999</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479778693120</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.22<companyAlertRiskScore -->
+		<Point><coordinates>-96.7707,33.0313</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479797043200</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.33<companyAlertRiskScore -->
+		<Point><coordinates>-95.5207,29.7369</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479830073344</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.22<companyAlertRiskScore -->
+		<Point><coordinates>-87.682,41.8688</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479879880705</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.44<companyAlertRiskScore -->
+		<Point><coordinates>-96.8002,32.7845</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479907667968</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.22<companyAlertRiskScore -->
+		<Point><coordinates>-73.9869,40.7467</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479930736640</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.33<companyAlertRiskScore -->
+		<Point><coordinates>-74.5923,40.3355</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479923920896</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.11<companyAlertRiskScore -->
+		<Point><coordinates>-82.4492,27.3021</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479923920896</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.11<companyAlertRiskScore -->
+		<Point><coordinates>-87.185,30.4991</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479923920896</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.11<companyAlertRiskScore -->
+		<Point><coordinates>-81.9746,28.0172</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479923920896</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.11<companyAlertRiskScore -->
+		<Point><coordinates>-82.6417,27.8585</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479923920896</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.11<companyAlertRiskScore -->
+		<Point><coordinates>-80.0837,26.7236</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479923920896</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.11<companyAlertRiskScore -->
+		<Point><coordinates>-81.3896,28.6352</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479923920896</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.11<companyAlertRiskScore -->
+		<Point><coordinates>-97.5168,35.4674</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479923920896</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.11<companyAlertRiskScore -->
+		<Point><coordinates>-81.8513,26.6011</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479923920896</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.11<companyAlertRiskScore -->
+		<Point><coordinates>-82.1785,29.1528</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66479923920896</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.11<companyAlertRiskScore -->
+		<Point><coordinates>-81.6637,30.3269</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66704621699072</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.22<companyAlertRiskScore -->
+		<Point><coordinates>114.057,22.5352</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66704621699072</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.22<companyAlertRiskScore -->
+		<Point><coordinates>151.203,-33.844</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66704621699072</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.22<companyAlertRiskScore -->
+		<Point><coordinates>121.447,31.2156</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66704621699072</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.22<companyAlertRiskScore -->
+		<Point><coordinates>-121.992,37.382</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66704621699072</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.22<companyAlertRiskScore -->
+		<Point><coordinates>-0.133315,51.5154</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66704621699072</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.22<companyAlertRiskScore -->
+		<Point><coordinates>-122.408,37.7681</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66704621699072</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.22<companyAlertRiskScore -->
+		<Point><coordinates>-122.419,37.6893</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66704621699072</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.22<companyAlertRiskScore -->
+		<Point><coordinates>-118.34,34.1546</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66704621699072</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.22<companyAlertRiskScore -->
+		<Point><coordinates>-93.2251,37.0232</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66704621699072</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.22<companyAlertRiskScore -->
+		<Point><coordinates>-73.9778,40.7625</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66704621699072</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.22<companyAlertRiskScore -->
+		<Point><coordinates>-73.9778,40.7625</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66704621699072</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.22<companyAlertRiskScore -->
+		<Point><coordinates>-122.416,37.7775</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66704621699072</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.22<companyAlertRiskScore -->
+		<Point><coordinates>-118.322,34.1809</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66704621699072</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.22<companyAlertRiskScore -->
+		<Point><coordinates>114.174,22.2799</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66704621699072</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.22<companyAlertRiskScore -->
+		<Point><coordinates>103.852,1.28323</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66754400747520</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>105.842,21.0237</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66754400747520</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>-82.3327,27.984</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66754400747520</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>-74.0353,40.7169</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66754400747520</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>-74.0353,40.7169</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66754400747520</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>121.018,14.5593</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66754400747520</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>151.202,-33.8651</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66754400747520</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>-0.0177746,51.504</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66754400747520</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>,</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66756864901120</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.2<companyAlertRiskScore -->
+		<Point><coordinates>-85.9982,39.9632</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66756864901120</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.2<companyAlertRiskScore -->
+		<Point><coordinates>-85.9982,39.9632</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66756864901120</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.2<companyAlertRiskScore -->
+		<Point><coordinates>-86.0417,39.9148</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66756864901120</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.2<companyAlertRiskScore -->
+		<Point><coordinates>-85.9982,39.9632</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66756864901120</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.2<companyAlertRiskScore -->
+		<Point><coordinates>-86.1614,39.769</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757105025024</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.04<companyAlertRiskScore -->
+		<Point><coordinates>-74.35,40.5714</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757105025024</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.04<companyAlertRiskScore -->
+		<Point><coordinates>-74.3893,40.5172</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757105025024</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.04<companyAlertRiskScore -->
+		<Point><coordinates>-74.2801,40.5785</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757105025024</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.04<companyAlertRiskScore -->
+		<Point><coordinates>-74.3521,40.6001</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757105025024</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.04<companyAlertRiskScore -->
+		<Point><coordinates>-74.3635,40.5346</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757105025024</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.04<companyAlertRiskScore -->
+		<Point><coordinates>-74.3824,40.5143</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757105025024</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.04<companyAlertRiskScore -->
+		<Point><coordinates>-74.4702,40.5381</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757105025024</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.04<companyAlertRiskScore -->
+		<Point><coordinates>-74.2843,40.5207</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757105025024</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.04<companyAlertRiskScore -->
+		<Point><coordinates>-74.2653,40.5058</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757105025024</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.04<companyAlertRiskScore -->
+		<Point><coordinates>-74.3631,40.5338</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757105025024</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.04<companyAlertRiskScore -->
+		<Point><coordinates>-74.32,40.6006</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757105025024</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.04<companyAlertRiskScore -->
+		<Point><coordinates>-74.3611,40.5443</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757105025024</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.04<companyAlertRiskScore -->
+		<Point><coordinates>-74.353,40.5634</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757105025024</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.04<companyAlertRiskScore -->
+		<Point><coordinates>-74.3538,40.5444</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757105025024</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.04<companyAlertRiskScore -->
+		<Point><coordinates>-74.35,40.5714</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757510299648</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.59<companyAlertRiskScore -->
+		<Point><coordinates>-87.7658,41.8947</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757510299648</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.59<companyAlertRiskScore -->
+		<Point><coordinates>-87.7658,41.8947</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757510299648</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.59<companyAlertRiskScore -->
+		<Point><coordinates>-87.7657,41.8947</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757591040000</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.3<companyAlertRiskScore -->
+		<Point><coordinates>-71.679,42.3177</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757591040000</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.3<companyAlertRiskScore -->
+		<Point><coordinates>-73.7009,42.6788</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757591040000</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.3<companyAlertRiskScore -->
+		<Point><coordinates>-71.5686,42.2807</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757591040000</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.3<companyAlertRiskScore -->
+		<Point><coordinates>-71.2158,42.6882</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757591040000</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.3<companyAlertRiskScore -->
+		<Point><coordinates>-74.0032,40.7414</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757591040000</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.3<companyAlertRiskScore -->
+		<Point><coordinates>-74.0108,40.7076</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757591040000</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.3<companyAlertRiskScore -->
+		<Point><coordinates>-73.9768,40.7507</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757591040000</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.3<companyAlertRiskScore -->
+		<Point><coordinates>-71.0773,42.3487</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757628264448</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.4<companyAlertRiskScore -->
+		<Point><coordinates>-76.5177,39.2603</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757628264448</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.4<companyAlertRiskScore -->
+		<Point><coordinates>-80.6115,28.329</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757628264448</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.4<companyAlertRiskScore -->
+		<Point><coordinates>-86.6779,34.7199</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757628264448</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.4<companyAlertRiskScore -->
+		<Point><coordinates>-74.9767,39.9745</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757628264448</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.4<companyAlertRiskScore -->
+		<Point><coordinates>-105.087,40.5531</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757628264448</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.4<companyAlertRiskScore -->
+		<Point><coordinates>-77.2311,38.9247</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757628264448</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.4<companyAlertRiskScore -->
+		<Point><coordinates>-74.5618,39.4272</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757628264448</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.4<companyAlertRiskScore -->
+		<Point><coordinates>-77.0772,38.894</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757628264448</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.4<companyAlertRiskScore -->
+		<Point><coordinates>-77.1232,39.0475</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757628264448</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.4<companyAlertRiskScore -->
+		<Point><coordinates>-117.288,33.1212</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757628264448</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.4<companyAlertRiskScore -->
+		<Point><coordinates>-77.215,38.869</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757628264448</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.4<companyAlertRiskScore -->
+		<Point><coordinates>-76.888,39.0655</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757628264448</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.4<companyAlertRiskScore -->
+		<Point><coordinates>-104.795,38.9578</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757628264448</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.4<companyAlertRiskScore -->
+		<Point><coordinates>-76.7939,39.1618</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757628264448</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.4<companyAlertRiskScore -->
+		<Point><coordinates>-77.3277,38.946</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757628264448</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.4<companyAlertRiskScore -->
+		<Point><coordinates>-77.1999,38.9273</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757628264448</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.4<companyAlertRiskScore -->
+		<Point><coordinates>-77.0485,38.8531</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757628264448</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.4<companyAlertRiskScore -->
+		<Point><coordinates>-77.3238,38.9437</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757628264448</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.4<companyAlertRiskScore -->
+		<Point><coordinates>-76.7991,39.1775</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757628264448</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.4<companyAlertRiskScore -->
+		<Point><coordinates>-77.0772,38.894</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757628264448</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.4<companyAlertRiskScore -->
+		<Point><coordinates>-77.07,38.8964</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757762482176</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>8.42<companyAlertRiskScore -->
+		<Point><coordinates>-74.0085,40.7313</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757762482176</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>8.42<companyAlertRiskScore -->
+		<Point><coordinates>-74.0085,40.7313</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66757762482176</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>8.42<companyAlertRiskScore -->
+		<Point><coordinates>-74.0032,40.7414</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66771849052160</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.91<companyAlertRiskScore -->
+		<Point><coordinates>-122.743,45.4435</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66771849052160</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.91<companyAlertRiskScore -->
+		<Point><coordinates>-120.85,44.3031</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66771849052160</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.91<companyAlertRiskScore -->
+		<Point><coordinates>-122.743,45.4435</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66771849052160</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.91<companyAlertRiskScore -->
+		<Point><coordinates>-122.928,46.1433</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66771849052160</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.91<companyAlertRiskScore -->
+		<Point><coordinates>-119.13,46.2173</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66771849052160</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.91<companyAlertRiskScore -->
+		<Point><coordinates>-122.632,45.4146</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66771849052160</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.91<companyAlertRiskScore -->
+		<Point><coordinates>-123.436,48.1206</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66771849052160</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.91<companyAlertRiskScore -->
+		<Point><coordinates>-122.578,45.4893</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66771849052160</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.91<companyAlertRiskScore -->
+		<Point><coordinates>-122.839,42.4372</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66771849052160</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.91<companyAlertRiskScore -->
+		<Point><coordinates>-121.174,44.2818</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66771849052160</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.91<companyAlertRiskScore -->
+		<Point><coordinates>-118.789,45.6693</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66771849052160</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.91<companyAlertRiskScore -->
+		<Point><coordinates>-122.967,46.7186</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66771849052160</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.91<companyAlertRiskScore -->
+		<Point><coordinates>-122.547,45.5586</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66771849052160</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.91<companyAlertRiskScore -->
+		<Point><coordinates>-122.49,45.5043</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66771849052160</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.91<companyAlertRiskScore -->
+		<Point><coordinates>-122.757,45.5919</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66771849052160</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.91<companyAlertRiskScore -->
+		<Point><coordinates>-120.631,40.406</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66771849052160</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.91<companyAlertRiskScore -->
+		<Point><coordinates>-122.311,41.3093</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66771849052160</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.91<companyAlertRiskScore -->
+		<Point><coordinates>-122.68,45.5916</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66771849052160</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.91<companyAlertRiskScore -->
+		<Point><coordinates>-122.519,47.2571</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66771849052160</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.91<companyAlertRiskScore -->
+		<Point><coordinates>-122.636,41.7294</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66771849052160</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.91<companyAlertRiskScore -->
+		<Point><coordinates>-122.972,45.5121</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66771849052160</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.91<companyAlertRiskScore -->
+		<Point><coordinates>-124.195,41.7551</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66771849052160</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.91<companyAlertRiskScore -->
+		<Point><coordinates>-122.534,45.6175</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805002403840</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.2<companyAlertRiskScore -->
+		<Point><coordinates>-80.1927,33.0674</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805102018560</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.22<companyAlertRiskScore -->
+		<Point><coordinates>-74.0133,40.7121</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805102018560</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.22<companyAlertRiskScore -->
+		<Point><coordinates>-0.115476,51.5179</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805102018560</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.22<companyAlertRiskScore -->
+		<Point><coordinates>-74.0097,40.7209</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805102018560</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.22<companyAlertRiskScore -->
+		<Point><coordinates>-74.0134,40.7127</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805102018560</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.22<companyAlertRiskScore -->
+		<Point><coordinates>-74.0134,40.7127</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805102018560</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.22<companyAlertRiskScore -->
+		<Point><coordinates>-73.7527,42.6494</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805132951552</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.06<companyAlertRiskScore -->
+		<Point><coordinates>-96.8103,33.0757</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805132951552</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.06<companyAlertRiskScore -->
+		<Point><coordinates>-97.741,30.2701</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805132951552</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.06<companyAlertRiskScore -->
+		<Point><coordinates>-75.5391,39.1108</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805132951552</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.06<companyAlertRiskScore -->
+		<Point><coordinates>-96.8103,33.0757</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805132951552</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.06<companyAlertRiskScore -->
+		<Point><coordinates>-96.8038,32.7913</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805132951552</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.06<companyAlertRiskScore -->
+		<Point><coordinates>-97.7397,30.2706</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805199536128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>0.67<companyAlertRiskScore -->
+		<Point><coordinates>-124.036,46.3072</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805199536128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>0.67<companyAlertRiskScore -->
+		<Point><coordinates>-122.328,47.6366</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805199536128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>0.67<companyAlertRiskScore -->
+		<Point><coordinates>-122.312,47.6144</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805199536128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>0.67<companyAlertRiskScore -->
+		<Point><coordinates>-122.334,47.6103</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805199536128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>0.67<companyAlertRiskScore -->
+		<Point><coordinates>-122.33,47.6234</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805145534464</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.93<companyAlertRiskScore -->
+		<Point><coordinates>-73.981,40.7654</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805145534464</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.93<companyAlertRiskScore -->
+		<Point><coordinates>-122.254,37.521</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805145534464</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.93<companyAlertRiskScore -->
+		<Point><coordinates>-118.444,34.0465</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805145534464</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.93<companyAlertRiskScore -->
+		<Point><coordinates>-122.336,47.6036</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805145534464</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.93<companyAlertRiskScore -->
+		<Point><coordinates>-122.352,47.6505</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805145534464</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.93<companyAlertRiskScore -->
+		<Point><coordinates>-73.9807,40.7653</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805115650048</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.09<companyAlertRiskScore -->
+		<Point><coordinates>-73.979,40.7507</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805115650048</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.09<companyAlertRiskScore -->
+		<Point><coordinates>-77.4079,39.0268</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805115650048</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.09<companyAlertRiskScore -->
+		<Point><coordinates>-77.4085,39.0306</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805115650048</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.09<companyAlertRiskScore -->
+		<Point><coordinates>-77.2252,38.9161</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805115650048</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.09<companyAlertRiskScore -->
+		<Point><coordinates>-117.206,32.8764</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805115650048</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.09<companyAlertRiskScore -->
+		<Point><coordinates>144.975,-37.8382</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805115650048</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.09<companyAlertRiskScore -->
+		<Point><coordinates>-85.5721,38.2702</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805115650048</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.09<companyAlertRiskScore -->
+		<Point><coordinates>-118.444,34.0462</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805115650048</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.09<companyAlertRiskScore -->
+		<Point><coordinates>-122.396,37.788</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805115650048</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.09<companyAlertRiskScore -->
+		<Point><coordinates>-0.134976,51.4989</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805115650048</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.09<companyAlertRiskScore -->
+		<Point><coordinates>-73.9965,40.7261</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805115650048</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.09<companyAlertRiskScore -->
+		<Point><coordinates>-77.4059,39.0278</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805115650048</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.09<companyAlertRiskScore -->
+		<Point><coordinates>-77.0413,38.8999</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805115650048</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.09<companyAlertRiskScore -->
+		<Point><coordinates>-73.9965,40.7261</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805115650048</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.09<companyAlertRiskScore -->
+		<Point><coordinates>-74.0032,40.7414</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805172273152</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.06<companyAlertRiskScore -->
+		<Point><coordinates>-96.6973,33.1411</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805172273152</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.06<companyAlertRiskScore -->
+		<Point><coordinates>-96.6609,33.0002</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805172273152</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.06<companyAlertRiskScore -->
+		<Point><coordinates>-96.7052,33.0312</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805242527744</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.22<companyAlertRiskScore -->
+		<Point><coordinates>-73.9775,40.7516</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805242527744</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.22<companyAlertRiskScore -->
+		<Point><coordinates>-84.3957,33.7916</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805242527744</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.22<companyAlertRiskScore -->
+		<Point><coordinates>-118.453,34.019</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805242527744</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.22<companyAlertRiskScore -->
+		<Point><coordinates>-83.2162,42.5493</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805242527744</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.22<companyAlertRiskScore -->
+		<Point><coordinates>-122.266,37.8101</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805242527744</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.22<companyAlertRiskScore -->
+		<Point><coordinates>-73.9912,40.7361</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805242527744</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.22<companyAlertRiskScore -->
+		<Point><coordinates>-96.8049,32.7886</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805094154240</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>8.68<companyAlertRiskScore -->
+		<Point><coordinates>-90.188,38.6288</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805094154240</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>8.68<companyAlertRiskScore -->
+		<Point><coordinates>-77.0317,38.8921</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805094154240</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>8.68<companyAlertRiskScore -->
+		<Point><coordinates>-75.151,39.9503</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805094154240</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>8.68<companyAlertRiskScore -->
+		<Point><coordinates>-81.6903,41.502</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805094154240</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>8.68<companyAlertRiskScore -->
+		<Point><coordinates>-94.5862,39.075</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805094154240</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>8.68<companyAlertRiskScore -->
+		<Point><coordinates>-81.6903,41.502</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805094154240</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>8.68<companyAlertRiskScore -->
+		<Point><coordinates>-122.396,37.7936</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805094154240</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>8.68<companyAlertRiskScore -->
+		<Point><coordinates>-75.15,39.9535</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805094154240</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>8.68<companyAlertRiskScore -->
+		<Point><coordinates>-74.0087,40.7084</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805094154240</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>8.68<companyAlertRiskScore -->
+		<Point><coordinates>-93.2674,44.9845</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805094154240</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>8.68<companyAlertRiskScore -->
+		<Point><coordinates>-97.0509,39.8205</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805094154240</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>8.68<companyAlertRiskScore -->
+		<Point><coordinates>-87.633,41.8785</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805094154240</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>8.68<companyAlertRiskScore -->
+		<Point><coordinates>-77.4407,37.5355</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805094154240</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>8.68<companyAlertRiskScore -->
+		<Point><coordinates>-96.8006,32.7915</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805094154240</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>8.68<companyAlertRiskScore -->
+		<Point><coordinates>-71.0549,42.353</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805094154240</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>8.68<companyAlertRiskScore -->
+		<Point><coordinates>-84.3854,33.7824</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805094154240</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>8.68<companyAlertRiskScore -->
+		<Point><coordinates>-77.0336,38.8989</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805094154240</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>8.68<companyAlertRiskScore -->
+		<Point><coordinates>-77.0449,38.8921</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805370978304</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.03<companyAlertRiskScore -->
+		<Point><coordinates>-95.3699,29.7546</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805370978304</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.03<companyAlertRiskScore -->
+		<Point><coordinates>-95.3699,29.7546</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805370978304</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.03<companyAlertRiskScore -->
+		<Point><coordinates>-95.5739,29.7283</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805370978304</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.03<companyAlertRiskScore -->
+		<Point><coordinates>-95.5739,29.7283</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805370978304</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.03<companyAlertRiskScore -->
+		<Point><coordinates>-77.0519,38.8513</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805452767232</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.67<companyAlertRiskScore -->
+		<Point><coordinates>-96.8247,33.1508</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805452767232</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.67<companyAlertRiskScore -->
+		<Point><coordinates>-96.7942,33.0238</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805452767232</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.67<companyAlertRiskScore -->
+		<Point><coordinates>-96.7942,33.0238</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805334278144</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.37<companyAlertRiskScore -->
+		<Point><coordinates>-111.071,45.6759</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805334278144</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.37<companyAlertRiskScore -->
+		<Point><coordinates>-122.288,37.5561</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805334278144</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.37<companyAlertRiskScore -->
+		<Point><coordinates>151.203,-33.8727</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805334278144</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.37<companyAlertRiskScore -->
+		<Point><coordinates>-121.949,37.3176</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805334278144</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.37<companyAlertRiskScore -->
+		<Point><coordinates>-122.288,37.5561</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805334278144</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.37<companyAlertRiskScore -->
+		<Point><coordinates>-0.0838496,51.5152</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805334278144</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.37<companyAlertRiskScore -->
+		<Point><coordinates>-87.6361,41.8823</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805334278144</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.37<companyAlertRiskScore -->
+		<Point><coordinates>-122.402,37.788</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805429698560</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.2<companyAlertRiskScore -->
+		<Point><coordinates>-74.3292,40.5634</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805429174272</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.2<companyAlertRiskScore -->
+		<Point><coordinates>-85.9982,39.9632</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805429174272</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.2<companyAlertRiskScore -->
+		<Point><coordinates>-85.9982,39.9632</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805429174272</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.2<companyAlertRiskScore -->
+		<Point><coordinates>-85.9982,39.9632</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805429174272</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.2<companyAlertRiskScore -->
+		<Point><coordinates>-86.0417,39.9148</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805429174272</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.2<companyAlertRiskScore -->
+		<Point><coordinates>-86.1614,39.769</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805517254657</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.67<companyAlertRiskScore -->
+		<Point><coordinates>-122.336,47.6071</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805517254657</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.67<companyAlertRiskScore -->
+		<Point><coordinates>-122.333,47.5994</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805517254657</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.67<companyAlertRiskScore -->
+		<Point><coordinates>-122.336,47.6073</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805517254657</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.67<companyAlertRiskScore -->
+		<Point><coordinates>-122.333,47.5998</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805517254657</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.67<companyAlertRiskScore -->
+		<Point><coordinates>-122.336,47.6073</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805517254656</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.13<companyAlertRiskScore -->
+		<Point><coordinates>-96.8478,33.111</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805517254656</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.13<companyAlertRiskScore -->
+		<Point><coordinates>-96.691,32.9765</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805517254656</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.13<companyAlertRiskScore -->
+		<Point><coordinates>-96.836,33.0647</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805517254656</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.13<companyAlertRiskScore -->
+		<Point><coordinates>-96.8171,33.0691</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805517254656</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.13<companyAlertRiskScore -->
+		<Point><coordinates>-96.8102,33.0731</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805517254656</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.13<companyAlertRiskScore -->
+		<Point><coordinates>-96.8102,33.0731</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805517254656</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.13<companyAlertRiskScore -->
+		<Point><coordinates>-104.988,39.7414</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805517254656</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.13<companyAlertRiskScore -->
+		<Point><coordinates>-117.678,33.6163</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805517254656</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.13<companyAlertRiskScore -->
+		<Point><coordinates>-97.7406,30.2689</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805517254656</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.13<companyAlertRiskScore -->
+		<Point><coordinates>-96.7973,32.7848</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805517254656</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.13<companyAlertRiskScore -->
+		<Point><coordinates>-88.368,44.2999</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805537177600</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.39<companyAlertRiskScore -->
+		<Point><coordinates>-80.7133,41.0229</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805537177600</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.39<companyAlertRiskScore -->
+		<Point><coordinates>-77.0323,38.9032</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805537177600</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.39<companyAlertRiskScore -->
+		<Point><coordinates>-77.0323,38.9032</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805537177600</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.39<companyAlertRiskScore -->
+		<Point><coordinates>-77.0386,38.9009</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805561819136</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.74<companyAlertRiskScore -->
+		<Point><coordinates>-105.239,40.0215</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805561819136</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.74<companyAlertRiskScore -->
+		<Point><coordinates>-105.239,40.0215</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805561819136</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.74<companyAlertRiskScore -->
+		<Point><coordinates>-105.239,40.0215</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805625257984</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.11<companyAlertRiskScore -->
+		<Point><coordinates>-96.8621,33.1428</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805625257984</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.11<companyAlertRiskScore -->
+		<Point><coordinates>-96.9566,32.9078</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805625257984</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.11<companyAlertRiskScore -->
+		<Point><coordinates>-96.9929,32.9542</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805625257984</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.11<companyAlertRiskScore -->
+		<Point><coordinates>-96.9929,32.9542</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805266644992</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.35<companyAlertRiskScore -->
+		<Point><coordinates>-74.0047,40.7157</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805266644992</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.35<companyAlertRiskScore -->
+		<Point><coordinates>-76.8022,39.1435</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805266644992</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.35<companyAlertRiskScore -->
+		<Point><coordinates>-74.0132,40.713</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805599043584</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.92<companyAlertRiskScore -->
+		<Point><coordinates>-77.124,39.0492</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805599043584</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.92<companyAlertRiskScore -->
+		<Point><coordinates>-77.0342,39.0148</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805599043584</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.92<companyAlertRiskScore -->
+		<Point><coordinates>-77.1274,39.0482</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805599043584</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.92<companyAlertRiskScore -->
+		<Point><coordinates>-77.1155,39.0471</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805599043584</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.92<companyAlertRiskScore -->
+		<Point><coordinates>-77.1273,39.0502</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805599043584</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.92<companyAlertRiskScore -->
+		<Point><coordinates>-77.1273,39.0502</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805678735360</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.98<companyAlertRiskScore -->
+		<Point><coordinates>-78.7914,35.8284</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805678735360</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.98<companyAlertRiskScore -->
+		<Point><coordinates>-78.7914,35.8284</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805665628160</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.61<companyAlertRiskScore -->
+		<Point><coordinates>-76.7148,39.2495</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66805665628160</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.61<companyAlertRiskScore -->
+		<Point><coordinates>-76.7148,39.2495</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66839224778752</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.52<companyAlertRiskScore -->
+		<Point><coordinates>-122.271,37.8039</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66839224778752</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.52<companyAlertRiskScore -->
+		<Point><coordinates>-122.271,37.8039</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66839224778752</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.52<companyAlertRiskScore -->
+		<Point><coordinates>-122.271,37.8039</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66839224778752</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.52<companyAlertRiskScore -->
+		<Point><coordinates>-122.116,37.3789</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66839224778752</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.52<companyAlertRiskScore -->
+		<Point><coordinates>-122.404,37.7872</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66839224778752</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.52<companyAlertRiskScore -->
+		<Point><coordinates>-122.417,37.7773</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66839403036672</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.48<companyAlertRiskScore -->
+		<Point><coordinates>-75.2872,40.0768</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66839403036672</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.48<companyAlertRiskScore -->
+		<Point><coordinates>-75.3835,39.8289</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66839403036672</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.48<companyAlertRiskScore -->
+		<Point><coordinates>-111.924,33.4956</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66839375249408</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>7.39<companyAlertRiskScore -->
+		<Point><coordinates>-122.658,49.2097</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66839375249408</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>7.39<companyAlertRiskScore -->
+		<Point><coordinates>-79.8096,43.3586</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66839375249408</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>7.39<companyAlertRiskScore -->
+		<Point><coordinates>-84.8254,39.8266</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66839375249408</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>7.39<companyAlertRiskScore -->
+		<Point><coordinates>-93.4116,45.214</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66839375249408</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>7.39<companyAlertRiskScore -->
+		<Point><coordinates>-93.3732,45.2022</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66839375249408</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>7.39<companyAlertRiskScore -->
+		<Point><coordinates>-93.3732,45.2022</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66839375249408</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>7.39<companyAlertRiskScore -->
+		<Point><coordinates>-117.036,46.3963</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66839494262784</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.11<companyAlertRiskScore -->
+		<Point><coordinates>-97.1603,32.9826</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66839494262784</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.11<companyAlertRiskScore -->
+		<Point><coordinates>-97.1603,32.9826</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66839389929472</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.06<companyAlertRiskScore -->
+		<Point><coordinates>-96.6973,33.1411</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66839389929472</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.06<companyAlertRiskScore -->
+		<Point><coordinates>-96.6609,33.0002</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66839389929472</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.06<companyAlertRiskScore -->
+		<Point><coordinates>-96.7052,33.0312</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66839353753600</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.97<companyAlertRiskScore -->
+		<Point><coordinates>2.30633,48.8803</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66839353753600</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.97<companyAlertRiskScore -->
+		<Point><coordinates>-74.0016,40.7202</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66839353753600</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.97<companyAlertRiskScore -->
+		<Point><coordinates>-73.9512,40.6481</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66839353753600</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.97<companyAlertRiskScore -->
+		<Point><coordinates>-73.9932,40.7468</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66839353753600</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.97<companyAlertRiskScore -->
+		<Point><coordinates>-73.9887,40.7378</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66839353753600</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.97<companyAlertRiskScore -->
+		<Point><coordinates>-73.9854,40.7435</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66839353753600</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.97<companyAlertRiskScore -->
+		<Point><coordinates>-73.9854,40.7435</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840231411712</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.6<companyAlertRiskScore -->
+		<Point><coordinates>-75.2343,40.2334</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840231411712</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.6<companyAlertRiskScore -->
+		<Point><coordinates>-75.2614,40.2277</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840231411712</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.6<companyAlertRiskScore -->
+		<Point><coordinates>-75.2614,40.2277</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840231411712</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.6<companyAlertRiskScore -->
+		<Point><coordinates>-80.3075,25.9091</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840231411712</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.6<companyAlertRiskScore -->
+		<Point><coordinates>-75.1739,40.142</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840231411712</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.6<companyAlertRiskScore -->
+		<Point><coordinates>-96.6206,32.9821</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840231411712</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.6<companyAlertRiskScore -->
+		<Point><coordinates>-96.711,32.9744</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840231411712</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.6<companyAlertRiskScore -->
+		<Point><coordinates>-122.401,37.7904</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840231411712</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.6<companyAlertRiskScore -->
+		<Point><coordinates>-84.386,33.7932</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840158011392</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.29<companyAlertRiskScore -->
+		<Point><coordinates>-83.236,42.1213</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840158011392</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.29<companyAlertRiskScore -->
+		<Point><coordinates>-96.8228,32.9391</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840158011392</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.29<companyAlertRiskScore -->
+		<Point><coordinates>-97.3086,37.6113</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840158011392</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.29<companyAlertRiskScore -->
+		<Point><coordinates>-95.1307,30.1406</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840158011392</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.29<companyAlertRiskScore -->
+		<Point><coordinates>-122.134,38.2214</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840158011392</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.29<companyAlertRiskScore -->
+		<Point><coordinates>-96.8226,32.939</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840158011392</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.29<companyAlertRiskScore -->
+		<Point><coordinates>-96.8226,32.939</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840158011392</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.29<companyAlertRiskScore -->
+		<Point><coordinates>-97.741,30.2683</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840281219072</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.22<companyAlertRiskScore -->
+		<Point><coordinates>-121.493,38.5787</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-88.1525,42.0079</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.2674,42.1658</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.7214,42.2983</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.783,42.5377</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.2838,42.5451</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.2667,42.6059</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-85.7237,42.8151</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.4814,42.2037</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.1963,42.548</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.1847,42.5112</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.517,43.0352</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-76.4919,40.0281</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.2228,42.678</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-85.4809,43.6986</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.9149,43.5811</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-85.9128,42.9731</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.7698,42.2423</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-84.2385,39.5592</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.2099,42.2574</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-88.1525,42.0079</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.3526,42.4551</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-77.3699,35.5843</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-85.6152,42.9518</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.3595,42.5414</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.2919,42.0995</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-97.8427,30.1939</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.7055,42.7985</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.4375,42.5262</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.1582,42.4466</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.3612,42.5001</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.6244,42.4615</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.0506,42.569</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-86.219,43.068</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-76.497,38.9778</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-82.9647,42.4357</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.0697,42.3528</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-82.9075,42.4428</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.0118,42.3422</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-82.9177,42.401</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.0591,42.3982</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-85.579,43.0558</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-85.5133,42.9137</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.27,42.2811</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.1788,42.3437</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.2671,42.3267</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-84.4099,42.7479</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.4464,42.6133</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-82.8721,42.5726</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-82.9528,42.5848</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.7384,43.1767</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-82.8543,42.6462</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-84.6403,42.7405</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-84.825,42.5703</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-84.5395,42.6638</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.4853,42.3069</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.4463,42.2943</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-85.5082,42.7949</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-85.4009,44.2807</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.4605,42.3382</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-87.4257,46.5456</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-85.572,43.2221</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.6152,42.514</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-84.228,43.6543</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.8317,42.4622</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.4123,41.9273</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-86.2668,43.1914</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.1081,42.4905</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-108.187,36.7364</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.4369,42.397</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.4813,42.358</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.437,42.4712</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.1807,42.2417</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-85.3795,42.9309</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.3131,42.765</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.1722,42.6354</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.2383,42.7668</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-84.5093,42.7365</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.0273,42.4339</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.3907,42.2659</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-85.6083,42.8815</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.3487,42.5995</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-85.5279,42.3211</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-85.8759,42.908</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-85.5552,42.9478</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.2223,42.5107</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-82.4866,42.8158</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.9278,42.6244</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.0689,42.592</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-85.6316,42.2711</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-85.6402,42.9851</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.3355,42.3251</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-85.7441,42.883</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-85.6236,42.842</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.6935,42.9449</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.2534,42.2279</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.193,42.141</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.9639,42.0071</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.7722,42.9839</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.0637,42.4609</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.0878,42.565</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-82.9698,42.5249</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-85.7788,42.9718</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-82.9915,42.61</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.0668,42.5072</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.0317,42.6362</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-86.4671,42.0647</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.0698,42.6985</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.2121,42.1974</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.3714,42.6555</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.2774,42.4571</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.975,43.491</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-82.7372,42.7942</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.1344,42.6923</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.2786,42.3709</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-84.0309,43.4364</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-82.4407,43.0051</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-85.596,42.2155</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-82.7738,42.6761</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-84.9644,45.3742</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-82.4529,42.9684</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.6202,42.2238</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.4517,42.8525</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.4748,42.4436</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-118.14,34.1132</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.5249,42.6496</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-86.0573,42.8043</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.1283,42.5939</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.0184,42.7709</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-85.6884,42.9125</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-86.1972,43.2348</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.0033,42.4776</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-83.3853,42.3328</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840261296128</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.1<companyAlertRiskScore -->
+		<Point><coordinates>-85.6546,44.6715</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840317919232</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.19<companyAlertRiskScore -->
+		<Point><coordinates>-97.6518,30.3807</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840317919232</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.19<companyAlertRiskScore -->
+		<Point><coordinates>-97.7416,30.3944</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840317919232</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.19<companyAlertRiskScore -->
+		<Point><coordinates>-95.6769,29.5938</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840317919232</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.19<companyAlertRiskScore -->
+		<Point><coordinates>-95.4191,29.7322</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840317919232</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.19<companyAlertRiskScore -->
+		<Point><coordinates>-97.7241,30.3729</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840317919232</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.19<companyAlertRiskScore -->
+		<Point><coordinates>-97.7241,30.3729</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840317919232</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.19<companyAlertRiskScore -->
+		<Point><coordinates>-95.4191,29.7322</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840231936000</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.2<companyAlertRiskScore -->
+		<Point><coordinates>78.3565,17.4473</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840231936000</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.2<companyAlertRiskScore -->
+		<Point><coordinates>-122.68,45.524</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840231936000</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.2<companyAlertRiskScore -->
+		<Point><coordinates>116.439,39.9238</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840231936000</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.2<companyAlertRiskScore -->
+		<Point><coordinates>-79.3951,43.6448</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840231936000</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.2<companyAlertRiskScore -->
+		<Point><coordinates>-122.29,37.5519</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840231936000</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.2<companyAlertRiskScore -->
+		<Point><coordinates>-122.284,37.5616</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840231936000</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.2<companyAlertRiskScore -->
+		<Point><coordinates>-122.281,37.5561</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840231936000</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.2<companyAlertRiskScore -->
+		<Point><coordinates>-117.859,33.6895</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840231936000</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.2<companyAlertRiskScore -->
+		<Point><coordinates>-0.0879224,51.5264</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840231936000</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.2<companyAlertRiskScore -->
+		<Point><coordinates>-122.156,47.7121</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840231936000</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.2<companyAlertRiskScore -->
+		<Point><coordinates>-122.397,37.7912</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840231936000</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.2<companyAlertRiskScore -->
+		<Point><coordinates>-122.188,47.5969</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840231936000</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.2<companyAlertRiskScore -->
+		<Point><coordinates>-122.397,37.7885</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840231936000</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.2<companyAlertRiskScore -->
+		<Point><coordinates>-122.397,37.7912</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840338366464</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.19<companyAlertRiskScore -->
+		<Point><coordinates>-73.9221,40.7438</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840338366464</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.19<companyAlertRiskScore -->
+		<Point><coordinates>-73.9221,40.7439</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840338366464</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.19<companyAlertRiskScore -->
+		<Point><coordinates>-73.924,40.7441</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840358813696</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.34<companyAlertRiskScore -->
+		<Point><coordinates>-73.9971,40.7246</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840358813696</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.34<companyAlertRiskScore -->
+		<Point><coordinates>-73.9973,40.7243</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840358813696</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.34<companyAlertRiskScore -->
+		<Point><coordinates>-73.9479,40.7041</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840358813696</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.34<companyAlertRiskScore -->
+		<Point><coordinates>-73.9971,40.7246</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840494080000</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.33<companyAlertRiskScore -->
+		<Point><coordinates>-121.903,37.4128</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840319492096</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.22<companyAlertRiskScore -->
+		<Point><coordinates>-96.7341,33.0172</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840319492096</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.22<companyAlertRiskScore -->
+		<Point><coordinates>-96.7347,33.0174</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840681250816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.09<companyAlertRiskScore -->
+		<Point><coordinates>-82.9503,40.1412</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840681250816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.09<companyAlertRiskScore -->
+		<Point><coordinates>-84.2292,30.4356</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840681250816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.09<companyAlertRiskScore -->
+		<Point><coordinates>-93.7635,41.6</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840681250816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.09<companyAlertRiskScore -->
+		<Point><coordinates>-122.096,47.6635</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840681250816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.09<companyAlertRiskScore -->
+		<Point><coordinates>-111.889,33.6353</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840681250816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.09<companyAlertRiskScore -->
+		<Point><coordinates>-84.4218,39.3266</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840681250816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.09<companyAlertRiskScore -->
+		<Point><coordinates>-86.1158,39.9086</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840681250816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.09<companyAlertRiskScore -->
+		<Point><coordinates>-83.2727,42.4834</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840681250816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.09<companyAlertRiskScore -->
+		<Point><coordinates>-96.018,41.243</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840681250816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.09<companyAlertRiskScore -->
+		<Point><coordinates>-94.6353,39.0287</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840681250816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.09<companyAlertRiskScore -->
+		<Point><coordinates>-82.4624,27.9522</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840681250816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.09<companyAlertRiskScore -->
+		<Point><coordinates>-84.3832,39.2531</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840681250816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.09<companyAlertRiskScore -->
+		<Point><coordinates>-84.2346,39.6005</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840681250816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.09<companyAlertRiskScore -->
+		<Point><coordinates>-76.6396,39.4519</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840681250816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.09<companyAlertRiskScore -->
+		<Point><coordinates>-84.2581,34.0731</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840681250816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.09<companyAlertRiskScore -->
+		<Point><coordinates>-97.7356,30.4012</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840681250816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.09<companyAlertRiskScore -->
+		<Point><coordinates>-104.9,39.6077</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840519770112</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>0<companyAlertRiskScore -->
+		<Point><coordinates>-71.0945,42.3486</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840628822017</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.22<companyAlertRiskScore -->
+		<Point><coordinates>-73.9904,40.7308</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840628822016</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.98<companyAlertRiskScore -->
+		<Point><coordinates>-0.331459,51.5027</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840628822016</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.98<companyAlertRiskScore -->
+		<Point><coordinates>-87.6248,41.8897</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840628822016</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.98<companyAlertRiskScore -->
+		<Point><coordinates>-0.0899984,51.5195</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840628822016</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.98<companyAlertRiskScore -->
+		<Point><coordinates>-88.1996,41.8063</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840628822016</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.98<companyAlertRiskScore -->
+		<Point><coordinates>-0.089596,51.5194</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840628822016</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.98<companyAlertRiskScore -->
+		<Point><coordinates>-0.273402,51.4957</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840628822016</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.98<companyAlertRiskScore -->
+		<Point><coordinates>-87.6249,41.8895</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840628822016</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.98<companyAlertRiskScore -->
+		<Point><coordinates>-87.6249,41.8895</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840605229056</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>0<companyAlertRiskScore -->
+		<Point><coordinates>-81.7288,41.0486</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840605229056</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>0<companyAlertRiskScore -->
+		<Point><coordinates>-6.36671,53.4121</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840605229056</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>0<companyAlertRiskScore -->
+		<Point><coordinates>-86.7171,33.4036</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840605229056</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>0<companyAlertRiskScore -->
+		<Point><coordinates>11.555,48.1437</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840605229056</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>0<companyAlertRiskScore -->
+		<Point><coordinates>-114.033,46.8865</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840605229056</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>0<companyAlertRiskScore -->
+		<Point><coordinates>-121.779,37.2329</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840605229056</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>0<companyAlertRiskScore -->
+		<Point><coordinates>-117.127,32.784</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840605229056</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>0<companyAlertRiskScore -->
+		<Point><coordinates>-122.272,37.5594</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840605229056</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>0<companyAlertRiskScore -->
+		<Point><coordinates>-71.2355,42.5013</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840605229056</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>0<companyAlertRiskScore -->
+		<Point><coordinates>-0.0915165,51.5116</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840605229056</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>0<companyAlertRiskScore -->
+		<Point><coordinates>-6.25206,53.3394</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840605229056</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>0<companyAlertRiskScore -->
+		<Point><coordinates>-122.285,37.5609</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840605229056</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>0<companyAlertRiskScore -->
+		<Point><coordinates>-81.0467,34.0029</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840605229056</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>0<companyAlertRiskScore -->
+		<Point><coordinates>-3.80275,40.3612</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840605229056</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>0<companyAlertRiskScore -->
+		<Point><coordinates>-93.358,44.8628</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840605229056</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>0<companyAlertRiskScore -->
+		<Point><coordinates>-75.676,40.066</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840605229056</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>0<companyAlertRiskScore -->
+		<Point><coordinates>-79.6105,43.6586</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840605229056</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>0<companyAlertRiskScore -->
+		<Point><coordinates>-122.272,37.5594</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840681250817</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.67<companyAlertRiskScore -->
+		<Point><coordinates>-73.9939,40.7453</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840681250817</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.67<companyAlertRiskScore -->
+		<Point><coordinates>-73.9939,40.7453</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66841303056384</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.22<companyAlertRiskScore -->
+		<Point><coordinates>-74.5923,40.3355</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66841303056384</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.22<companyAlertRiskScore -->
+		<Point><coordinates>-74.5924,40.3356</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840709038080</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.62<companyAlertRiskScore -->
+		<Point><coordinates>-73.9776,40.7429</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840709038080</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.62<companyAlertRiskScore -->
+		<Point><coordinates>-73.9908,40.7432</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66840709038080</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.62<companyAlertRiskScore -->
+		<Point><coordinates>-73.9908,40.7432</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66841287327744</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.11<companyAlertRiskScore -->
+		<Point><coordinates>-122.168,37.8562</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66841287327744</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.11<companyAlertRiskScore -->
+		<Point><coordinates>-122.165,37.4445</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842066419712</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.78<companyAlertRiskScore -->
+		<Point><coordinates>-96.8021,32.7963</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842066419712</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.78<companyAlertRiskScore -->
+		<Point><coordinates>-96.7999,32.8065</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66841250103296</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.41<companyAlertRiskScore -->
+		<Point><coordinates>-97.4019,32.6874</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66841250103296</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.41<companyAlertRiskScore -->
+		<Point><coordinates>-75.5148,39.7913</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66841250103296</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.41<companyAlertRiskScore -->
+		<Point><coordinates>-97.4019,32.6874</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66841250103296</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.41<companyAlertRiskScore -->
+		<Point><coordinates>-97.4017,32.6877</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66841250103296</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.41<companyAlertRiskScore -->
+		<Point><coordinates>-0.119666,51.5185</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66841250103296</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.41<companyAlertRiskScore -->
+		<Point><coordinates>-117.261,32.9915</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66841250103296</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.41<companyAlertRiskScore -->
+		<Point><coordinates>-96.8234,32.955</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66841250103296</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.41<companyAlertRiskScore -->
+		<Point><coordinates>-97.741,30.2683</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842271940608</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>0.93<companyAlertRiskScore -->
+		<Point><coordinates>-73.9516,40.7825</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842271940608</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>0.93<companyAlertRiskScore -->
+		<Point><coordinates>-73.7505,42.6479</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842271940608</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>0.93<companyAlertRiskScore -->
+		<Point><coordinates>-73.9971,40.7247</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842271940608</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>0.93<companyAlertRiskScore -->
+		<Point><coordinates>-74.0023,40.7183</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842271940608</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>0.93<companyAlertRiskScore -->
+		<Point><coordinates>-74.0023,40.7183</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842271940608</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>0.93<companyAlertRiskScore -->
+		<Point><coordinates>-73.9917,40.6729</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842399342592</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.92<companyAlertRiskScore -->
+		<Point><coordinates>-74.2068,40.9477</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842399342592</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.92<companyAlertRiskScore -->
+		<Point><coordinates>-74.2076,40.9495</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842399342592</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.92<companyAlertRiskScore -->
+		<Point><coordinates>-74.2076,40.9495</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842399342592</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.92<companyAlertRiskScore -->
+		<Point><coordinates>-74.2712,41.0025</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842399342592</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.92<companyAlertRiskScore -->
+		<Point><coordinates>-74.1819,40.9374</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842399342592</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>1.92<companyAlertRiskScore -->
+		<Point><coordinates>-73.9609,40.7746</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842330660864</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.95<companyAlertRiskScore -->
+		<Point><coordinates>-76.5152,43.4608</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842330660864</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.95<companyAlertRiskScore -->
+		<Point><coordinates>-74.0084,40.7109</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842330660864</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.95<companyAlertRiskScore -->
+		<Point><coordinates>-73.9929,40.7387</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842330660864</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.95<companyAlertRiskScore -->
+		<Point><coordinates>-74.0084,40.7109</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842330660864</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.95<companyAlertRiskScore -->
+		<Point><coordinates>-73.9929,40.7387</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842383613952</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.74<companyAlertRiskScore -->
+		<Point><coordinates>-0.0817006,51.5267</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842383613952</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.74<companyAlertRiskScore -->
+		<Point><coordinates>153.034,-27.4566</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842383613952</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.74<companyAlertRiskScore -->
+		<Point><coordinates>-73.9869,40.7467</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842383613952</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.74<companyAlertRiskScore -->
+		<Point><coordinates>-73.9742,40.7502</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842383613952</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.74<companyAlertRiskScore -->
+		<Point><coordinates>-73.9742,40.7502</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842368409600</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.78<companyAlertRiskScore -->
+		<Point><coordinates>-73.9393,40.7067</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842368409600</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.78<companyAlertRiskScore -->
+		<Point><coordinates>-73.9394,40.7068</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842368409600</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.78<companyAlertRiskScore -->
+		<Point><coordinates>-73.9807,40.7388</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842441809920</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.59<companyAlertRiskScore -->
+		<Point><coordinates>-76.7553,39.3012</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842441809920</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.59<companyAlertRiskScore -->
+		<Point><coordinates>-76.7441,39.2672</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842441809920</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.59<companyAlertRiskScore -->
+		<Point><coordinates>-76.7142,39.2396</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842538803200</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.08<companyAlertRiskScore -->
+		<Point><coordinates>-121.959,37.2624</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842558201856</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.59<companyAlertRiskScore -->
+		<Point><coordinates>-74.1645,40.941</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842558201856</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.59<companyAlertRiskScore -->
+		<Point><coordinates>-74.1645,40.941</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842558201856</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.59<companyAlertRiskScore -->
+		<Point><coordinates>-74.1645,40.941</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842483228672</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.9<companyAlertRiskScore -->
+		<Point><coordinates>-122.663,45.5138</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842483228672</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.9<companyAlertRiskScore -->
+		<Point><coordinates>-77.0759,38.8993</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842483228672</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.9<companyAlertRiskScore -->
+		<Point><coordinates>-77.0772,38.894</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842483228672</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.9<companyAlertRiskScore -->
+		<Point><coordinates>-77.0772,38.894</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842483228672</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.9<companyAlertRiskScore -->
+		<Point><coordinates>-77.1151,38.8815</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842483228672</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.9<companyAlertRiskScore -->
+		<Point><coordinates>-77.0378,38.9029</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842483228672</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>2.9<companyAlertRiskScore -->
+		<Point><coordinates>-111.856,33.3926</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842860716032</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.5<companyAlertRiskScore -->
+		<Point><coordinates>-83.287,42.5054</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842860716032</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.5<companyAlertRiskScore -->
+		<Point><coordinates>-83.287,42.5054</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842655719424</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.4<companyAlertRiskScore -->
+		<Point><coordinates>-75.763,38.6867</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842655719424</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.4<companyAlertRiskScore -->
+		<Point><coordinates>-84.5052,42.6442</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842655719424</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.4<companyAlertRiskScore -->
+		<Point><coordinates>-96.6834,34.7892</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842655719424</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.4<companyAlertRiskScore -->
+		<Point><coordinates>-76.2697,40.046</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842655719424</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.4<companyAlertRiskScore -->
+		<Point><coordinates>-76.1189,39.5282</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842655719424</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.4<companyAlertRiskScore -->
+		<Point><coordinates>-87.1447,37.7927</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842655719424</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.4<companyAlertRiskScore -->
+		<Point><coordinates>-84.1178,33.7251</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842655719424</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.4<companyAlertRiskScore -->
+		<Point><coordinates>-114.442,42.5365</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842655719424</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.4<companyAlertRiskScore -->
+		<Point><coordinates>-83.6926,33.6656</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842655719424</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.4<companyAlertRiskScore -->
+		<Point><coordinates>-85.918,37.1684</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842655719424</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.4<companyAlertRiskScore -->
+		<Point><coordinates>-87.7305,41.7569</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842655719424</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.4<companyAlertRiskScore -->
+		<Point><coordinates>-88.1903,40.111</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842655719424</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.4<companyAlertRiskScore -->
+		<Point><coordinates>-88.3325,41.7932</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842655719424</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.4<companyAlertRiskScore -->
+		<Point><coordinates>-87.7454,41.4434</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842655719424</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.4<companyAlertRiskScore -->
+		<Point><coordinates>-121.247,38.136</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842655719424</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.4<companyAlertRiskScore -->
+		<Point><coordinates>-117.652,33.9559</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842655719424</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.4<companyAlertRiskScore -->
+		<Point><coordinates>-84.2643,32.9475</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842655719424</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.4<companyAlertRiskScore -->
+		<Point><coordinates>-81.9973,33.4647</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842655719424</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.4<companyAlertRiskScore -->
+		<Point><coordinates>-79.6991,43.616</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842655719424</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.4<companyAlertRiskScore -->
+		<Point><coordinates>0.2191,52.3536</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842655719424</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.4<companyAlertRiskScore -->
+		<Point><coordinates>-82.168,28.0055</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842655719424</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.4<companyAlertRiskScore -->
+		<Point><coordinates>-77.7831,44.303</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842655719424</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.4<companyAlertRiskScore -->
+		<Point><coordinates>-117.606,33.8841</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842655719424</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.4<companyAlertRiskScore -->
+		<Point><coordinates>-79.2424,43.8066</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842655719424</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.4<companyAlertRiskScore -->
+		<Point><coordinates>-84.4666,42.596</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842655719424</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.4<companyAlertRiskScore -->
+		<Point><coordinates>-96.8501,32.4241</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842655719424</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.4<companyAlertRiskScore -->
+		<Point><coordinates>-88.7361,32.0445</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842655719424</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.4<companyAlertRiskScore -->
+		<Point><coordinates>-122.901,46.9857</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842655719424</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.4<companyAlertRiskScore -->
+		<Point><coordinates>-84.4696,42.5979</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842655719424</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>5.4<companyAlertRiskScore -->
+		<Point><coordinates>-96.895,32.6898</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842949320704</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.52<companyAlertRiskScore -->
+		<Point><coordinates>-122.271,37.8039</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842949320704</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.52<companyAlertRiskScore -->
+		<Point><coordinates>-122.271,37.8039</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842949320704</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.52<companyAlertRiskScore -->
+		<Point><coordinates>-122.271,37.8039</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842949320704</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.52<companyAlertRiskScore -->
+		<Point><coordinates>-122.116,37.3789</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842949320704</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.52<companyAlertRiskScore -->
+		<Point><coordinates>-122.404,37.7872</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842949320704</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.52<companyAlertRiskScore -->
+		<Point><coordinates>-122.417,37.7773</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842914717696</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.55<companyAlertRiskScore -->
+		<Point><coordinates>-98.3934,29.5074</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842914717696</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.55<companyAlertRiskScore -->
+		<Point><coordinates>-0.429737,51.5014</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842914717696</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.55<companyAlertRiskScore -->
+		<Point><coordinates>-98.5628,29.5275</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842914717696</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.55<companyAlertRiskScore -->
+		<Point><coordinates>151.209,-33.8627</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842914717696</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.55<companyAlertRiskScore -->
+		<Point><coordinates>-98.3934,29.5074</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842914717696</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.55<companyAlertRiskScore -->
+		<Point><coordinates>103.852,1.28411</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66842914717696</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>4.55<companyAlertRiskScore -->
+		<Point><coordinates>-97.741,30.2683</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66843227193344</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.41<companyAlertRiskScore -->
+		<Point><coordinates>-105.003,39.7505</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66843227193344</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.41<companyAlertRiskScore -->
+		<Point><coordinates>-78.9449,36.0093</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66843227193344</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>6.41<companyAlertRiskScore -->
+		<Point><coordinates>-78.9449,36.0093</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66850132590592</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>0<companyAlertRiskScore -->
+		<Point><coordinates>-78.0316,39.0705</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66850839330816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>105.842,21.0237</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66850839330816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>-82.3327,27.984</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66850839330816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>-74.0353,40.7169</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66850839330816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>121.018,14.5593</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66850839330816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>151.202,-33.8651</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66850839330816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>-74.0353,40.7169</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66850839330816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>-0.0177746,51.504</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66850839330816</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>,</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66851989094400</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>105.842,21.0237</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66851989094400</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>-82.3327,27.984</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66851989094400</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>121.018,14.5593</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66851989094400</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>151.202,-33.8651</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66851989094400</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>-74.0353,40.7169</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66851989094400</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>-74.0353,40.7169</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66851989094400</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>-0.0177746,51.504</coordinates></Point>
+	</Placemark>
+	<Placemark>
+		<name>66851989094400</name    >
+        <styleUrl>#s1</styleUrl>
+		<!-- companyAlertRiskScore>3.81<companyAlertRiskScore -->
+		<Point><coordinates>,</coordinates></Point>
+	</Placemark>
+</Document>
+</kml>
